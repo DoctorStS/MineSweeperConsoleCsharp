@@ -1,0 +1,6 @@
+D:\Enginereus\-=PRG=-\source\MineSweeperConsole\MineSweeperConsole\bin\Debug\MineSweeperConsole.exe.config
+D:\Enginereus\-=PRG=-\source\MineSweeperConsole\MineSweeperConsole\bin\Debug\MineSweeperConsole.exe
+D:\Enginereus\-=PRG=-\source\MineSweeperConsole\MineSweeperConsole\bin\Debug\MineSweeperConsole.pdb
+D:\Enginereus\-=PRG=-\source\MineSweeperConsole\MineSweeperConsole\obj\Debug\MineSweeperConsole.csproj.CoreCompileInputs.cache
+D:\Enginereus\-=PRG=-\source\MineSweeperConsole\MineSweeperConsole\obj\Debug\MineSweeperConsole.exe
+D:\Enginereus\-=PRG=-\source\MineSweeperConsole\MineSweeperConsole\obj\Debug\MineSweeperConsole.pdb
